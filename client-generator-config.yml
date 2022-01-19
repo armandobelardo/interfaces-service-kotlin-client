@@ -1,7 +1,7 @@
 # See the following link for all kotlin customization options
 ## https://openapi-generator.tech/docs/generators/kotlin
 additionalProperties:
-  packageName: com.florence.{{PLACEHOLDER}}.client
+  packageName: com.florence.interfaces.client
   groupId: com.florence.clients
-  artifactId: {{PLACEHOLDER}}-service-client
+  artifactId: interfaces-service-client
   enumPropertyNaming: UPPERCASE
